@@ -1,0 +1,21 @@
+course_id,title,category,description,level
+1,Python for Beginners,Programming,Learn Python syntax variables loops functions and basic scripting,beginner
+2,Advanced Python,Programming,Decorators generators async concurrency and performance in Python,advanced
+3,Data Structures and Algorithms,Programming,Arrays trees graphs sorting searching and complexity analysis,intermediate
+4,Web Development with Django,Web,Build web applications with Python Django models views templates and REST APIs,intermediate
+5,HTML CSS and JavaScript Basics,Web,Create responsive websites with HTML CSS and JavaScript fundamentals,beginner
+6,React Front-End Development,Web,Build interactive user interfaces with React components hooks and state,intermediate
+7,Intro to Machine Learning,Data Science,Supervised learning regression classification and model evaluation with Python,intermediate
+8,Deep Learning with PyTorch,Data Science,Neural networks convolutional recurrent models and training with PyTorch,advanced
+9,Data Analysis with Pandas,Data Science,Clean transform and analyze data with Python pandas and visualization,beginner
+10,Statistics for Data Science,Data Science,Probability distributions hypothesis testing and regression analysis,intermediate
+11,SQL and Databases,Data,Relational databases SQL queries joins indexing and schema design,beginner
+12,Big Data with Spark,Data,Distributed data processing with Apache Spark and large datasets,advanced
+13,Cloud Computing Fundamentals,Cloud,Cloud services virtual machines storage networking and deployment basics,beginner
+14,DevOps with Docker and Kubernetes,Cloud,Containers orchestration CI/CD pipelines and infrastructure automation,intermediate
+15,Cybersecurity Essentials,Security,Threats encryption network security and secure coding practices,beginner
+16,Ethical Hacking,Security,Penetration testing vulnerability scanning and exploit analysis,advanced
+17,UX Design Principles,Design,User research wireframing prototyping and usability testing,beginner
+18,Digital Marketing Basics,Business,SEO social media advertising and analytics for online growth,beginner
+19,Project Management,Business,Agile scrum planning risk management and team leadership,intermediate
+20,Natural Language Processing,Data Science,Text processing embeddings transformers and language models with Python,advanced
